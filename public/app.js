@@ -7,7 +7,3 @@ function showName(name){
 }
 //Christian
 showName('Christian')
-//Jimi
-showName('Jimi')
-//Tobias
-showName('Tobias')
