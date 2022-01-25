@@ -6,4 +6,4 @@ function showName(name){
     document.body.appendChild(root)
 }
 //Christian
-showName('alex')
+showName('alexander')
